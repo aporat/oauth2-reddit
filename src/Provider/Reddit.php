@@ -61,7 +61,7 @@ final class Reddit extends AbstractProvider
      */
     public function getResourceOwnerDetailsUrl(AccessToken $token): string
     {
-        return $this->apiDomain . '/user';
+        return $this->apiDomain . '/me';
     }
 
     /**
