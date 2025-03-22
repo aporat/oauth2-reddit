@@ -27,7 +27,7 @@ $provider = new Aporat\OAuth2\Client\Provider\Reddit([
     'clientId'          => '{reddit-client-id}',
     'clientSecret'      => '{reddit-client-secret}',
     'redirectUri'       => 'https://example.com/callback-url',
-    'userAgent'      => 'platform:appid:version, (by /u/username)}',
+    'userAgent'         => 'platform:appid:version, (by /u/username)}',
 ]);
 
 if (!isset($_GET['code'])) {
