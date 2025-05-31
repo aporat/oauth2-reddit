@@ -1,10 +1,9 @@
 # Reddit Provider for OAuth 2.0 Client
-[![Latest Stable Version](https://img.shields.io/packagist/v/aporat/oauth2-reddit.svg?style=flat-square&logo=composer)](https://packagist.org/packages/aporat/oauth2-reddit)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Codecov](https://img.shields.io/codecov/c/github/aporat/oauth2-reddit?style=flat-square)](https://codecov.io/github/aporat/oauth2-reddit)
-[![Scrutinizer build (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/build/g/aporat/oauth2-reddit?style=flat-square)](https://scrutinizer-ci.com/g/aporat/oauth2-reddit/build-status/master)
-[![Scrutinizer quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/aporat/oauth2-reddit?style=flat-square)](https://scrutinizer-ci.com/g/aporat/oauth2-reddit/?branch=master)
-[![Total Downloads](https://img.shields.io/packagist/dt/aporat/oauth2-reddit.svg?style=flat-square)](https://packagist.org/packages/aporat/oauth2-reddit)
+[![Latest Stable Version](https://img.shields.io/packagist/v/aporat/oauth2-reddit.svg?logo=composer)](https://packagist.org/packages/aporat/oauth2-reddit)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![codecov](https://codecov.io/github/aporat/oauth2-reddit/graph/badge.svg?token=052F64LGUC)](https://codecov.io/github/aporat/oauth2-reddit)
+![GitHub Actions Workflow Status](https://github.com/aporat/oauth2-reddit/actions/workflows/ci.yaml/badge.svg)
+[![Total Downloads](https://img.shields.io/packagist/dt/aporat/oauth2-reddit.svg)](https://packagist.org/packages/aporat/oauth2-reddit)
 
 This package provides Reddit OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
 
